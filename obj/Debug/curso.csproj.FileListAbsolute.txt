@@ -1,0 +1,7 @@
+C:\Users\Edmundo\source\repos\pedido\pedido\obj\Debug\curso.csproj.CoreCompileInputs.cache
+C:\Users\Edmundo\source\repos\pedido\pedido\bin\Debug\pedido.exe.config
+C:\Users\Edmundo\source\repos\pedido\pedido\bin\Debug\pedido.exe
+C:\Users\Edmundo\source\repos\pedido\pedido\bin\Debug\pedido.pdb
+C:\Users\Edmundo\source\repos\pedido\pedido\obj\Debug\pedido.exe
+C:\Users\Edmundo\source\repos\pedido\pedido\obj\Debug\pedido.pdb
+C:\Users\Edmundo\source\repos\pedido\pedido\obj\Debug\curso.csprojAssemblyReference.cache

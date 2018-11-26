@@ -1,0 +1,2 @@
+C:\Users\Edmundo\source\repos\pedido\pedido\obj\Debug\pedido.csprojAssemblyReference.cache
+C:\Users\Edmundo\source\repos\pedido\pedido\obj\Debug\pedido.csproj.CoreCompileInputs.cache
